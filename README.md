@@ -1,5 +1,5 @@
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cwx-worst-one&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-[![cwx-worst-one's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwx-worst-one)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cwx-worst-one/cwx-worst-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
