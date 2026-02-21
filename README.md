@@ -1,18 +1,12 @@
-- 📫 Feel free to reach me at  1029713857@sjtu.edu.cn
+👋 Hi, I'm Wenxi Chen  
+🎓 PhD Student @ Shanghai Jiao Tong University (SJTU)   
+🔬 Research Intern @ ByteDance Seed  
+  Prev. Research Intern @ Microsoft Research Asia (MSRA), Soul App  
+🎧 Research Interests: General Audio Understanding, Generation & Interaction  
+📫 Feel free to reach me at: 1029713857@sjtu.edu.cn  
 
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cwx-worst-one&hide_title=true&hide_border=false&show_icons=trueline_height=21&theme=buefy" /> </div>
+<br/>
 
-<!--
-**cwx-worst-one/cwx-worst-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left"> 
+  <img height="137px" src="https://github-readme-stats-fast.vercel.app/api?username=cwx-worst-one&hide_title=true&hide_border=false&show_icons=true&line_height=21&theme=buefy" /> 
+</div>
