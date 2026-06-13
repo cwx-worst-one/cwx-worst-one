@@ -1,5 +1,5 @@
 👋 Hi, I'm Wenxi Chen  
-🎓 PhD Student @ Shanghai Jiao Tong University (SJTU)   
+🎓 PhD Student @ Shanghai Jiao Tong University (SJTU) and Shanghai Innovation Institute (SII)     
 🔬 Research Intern @ ByteDance Seed  
   Prev. Research Intern @ Microsoft Research Asia (MSRA), Soul App  
 🎧 Research Interests: General Audio Understanding, Generation & Interaction  
